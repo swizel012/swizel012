@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+My name is Swizel and I'm a MSc Data Scientist interested in all things Python & Data Science!
+
+- 🔭 I’m currently working on a website for a Guest House for tourists bookings and tourism analytics
+- 🌱 I’m currently learning WebDev & German
+- 👯 I recently built a tourism recommendation site, recommending motivations to tourists based on demographics and events.
+
 <!--
 **swizel012/swizel012** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
