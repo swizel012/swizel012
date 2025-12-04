@@ -10,9 +10,7 @@ Check out my pinned repos for a taste of my work, and let’s connect on LinkedI
 </br>
 Let’s lift, run, build, and create—together! 💡🏋️‍♂️🎨
 </br>
-- 🔭 I’m currently working on a website for a Guest House for tourists bookings and tourism analytics
-- 🌱 I’m learning German
-- 👯 I recently built a tourism recommendation site, recommending motivations to tourists based on demographics and events.
+
 
 
 <!--
