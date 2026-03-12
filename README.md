@@ -1,5 +1,5 @@
 ## Hi there 👋 My name is Swizel
-🚀 Data Science Masters Graduate | Python, .NET, SQL, Machine Learning & AI | Power BI | Tableau | DAX | RPA Enthusiast
+🚀 Data Science Masters Graduate | Python, .NET, SQL, Machine Learning & AI | Power BI | Tableau | RPA 
 
 # 🙋‍♂️ About me
 I’m a Data Science Masters graduate with a passion for uncovering insights and building impactful solutions. My technical toolkit includes Python, .NET, SQL, and I thrive in the world of machine learning, AI, and automation. I love bringing data to life with Power BI and Tableau, and DAX is my secret weapon for next-level analytics. RPA? Absolutely I’m all about making workflows smarter and faster.
